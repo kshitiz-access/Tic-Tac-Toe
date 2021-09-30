@@ -1,7 +1,7 @@
 :root {
-    --text: #dbdfac;
-    --bg: #2a1e5c;
-    --btn-bg: #d7f171;
+    --text: #acdfc3;
+    --bg: rgb(12, 95, 95);
+    --btn-bg: black;
 }
 
 * {
